@@ -47,6 +47,5 @@
   "dependencies": {
     "exif-js": "^2.3.0"
   },
-  "_from": "vue-cropper@0.2.9",
-  "_resolved": "http://registry.npm.taobao.org/vue-cropper/download/vue-cropper-0.2.9.tgz"
+  "_from": "https://github.com/yanglingqian/croppermodify.git"
 }

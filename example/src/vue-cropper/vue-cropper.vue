@@ -1,6 +1,6 @@
 <template>
 	<div class="vue-cropper" ref="cropper" @mouseover="scaleImg" @mouseout="cancleScale">
-		<div class="cropper-box">
+		<div class="cropper-box"  style="background:red">
 			<div class="cropper-box-canvas"
 			 	v-show="!loading"
 				:style="{
